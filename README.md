@@ -378,7 +378,7 @@ MIT License - Free for commercial and personal use
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ for secure infrastructure deployments.
+Built with GPU for secure infrastructure deployments.
 
 ---
 
